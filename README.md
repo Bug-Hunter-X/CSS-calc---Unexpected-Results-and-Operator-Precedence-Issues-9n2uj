@@ -1,0 +1,2 @@
+# CSS `calc()` Gotchas: Operator Precedence and Unit Handling
+This repository demonstrates some common pitfalls when using CSS's `calc()` function and provides solutions.  `calc()` is powerful for dynamic sizing, but can be tricky if not used carefully.  The issues demonstrated include unexpected results due to operator precedence and unit compatibility, especially with nested `calc()` expressions.
